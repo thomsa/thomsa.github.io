@@ -3,7 +3,7 @@ import * as airportActions from '../../redux-store/actions/airport.actions';
 
 class HomeController {
   /** @ngInject */
-  constructor($ngRedux, $scope, riaAirportService) {
+  constructor($ngRedux, $scope, $state, riaAirportService) {
     this.props = {};
     const unsubscribe = $ngRedux.connect(this.mapStateToThis,
       Object.assign({},
@@ -14,27 +14,15 @@ class HomeController {
 
     this.props.getAllAirports();
     console.log(this);
+
+    this.$state = $state;
   }
-  searchTextChange(text) {
-    console.log(text);
-  }
-  getAirportsLookup(query) {
-    const results = [];
-    query = query.toLowerCase();
-    for (let index = 0; index < this.props.airports.length; index++) {
-      const element = this.props.airports[index];
-      if (element.code.toLowerCase().indexOf(query) >= 0 ||
-        element.name.toLowerCase().indexOf(query) >= 0 ||
-        element.country_name.toLowerCase().indexOf(query) >= 0) {
-        results.push(element);
-      }
-    }
-    return results;
-  }
+
   mapStateToThis(state) {
     return {
       airports: state.airport,
-      ui: state.ui
+      ui: state.ui,
+      delays: state.delay
     };
   }
 }

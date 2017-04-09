@@ -7,10 +7,12 @@
  */
 import angular from 'angular';
 import Home from './home/home.component';
+import evaluate from './evaluate/evaluate.component';
 
 const containers = 'ria-containers-module';
 angular
     .module(containers, [])
-    .component('riaHomeContainer', Home);
+    .component('riaHomeContainer', Home)
+    .component('riaEvaluateContainer', evaluate);
 
 export default containers;

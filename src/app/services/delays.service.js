@@ -8,7 +8,7 @@ export function DelaysService($http, $q, $log) {
       dispatch(delayActions.fetchStart());
       $http({
         method: 'GET',
-        url: basePath + ('/' + origin + '_' + destination + '.json')
+        url: basePath + (origin + '_' + destination + '.json')
       }).then(response => {
         dispatch(delayActions.receive(response.data));
       }, error => {
@@ -16,6 +16,7 @@ export function DelaysService($http, $q, $log) {
       });
     };
   }
+
   return {
     getDelayData
   };

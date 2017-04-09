@@ -9,8 +9,13 @@ import angular from 'angular';
 
 const components = 'ria-components-module';
 import plane from './plane/plane.component';
+import airportSearch from './airport-search-input/airport-search-input.component';
+import drillDownChart from './drill-down-chart/drill-down-chart.component';
+
 angular
     .module(components, [])
-    .component('plane', plane);
+    .component('plane', plane)
+    .component('riaAirportSearchInput', airportSearch)
+    .component('riaDrillDownChart', drillDownChart);
 
 export default components;

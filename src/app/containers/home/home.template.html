@@ -8,12 +8,63 @@
   </md-toolbar>
 
   <div layout="row" flex>
-    <md-content layout="column" layout="column" layout-align=" center" class="content-wrapper md-padding title-page" flex id="content">
-
-      <h1>Tired of flight delays?</h1>
+    <md-content layout="column" class="content-wrapper md-padding title-page" flex id="content">
+      <div  ui-view layout="column" flex>
+        <div layout="column" flex layout-align=" center">
+          <h1>Tired of flight delays?</h1>
       <h2>Check which flight to book next time to avoid them!</h3>
-        <md-button class="md-raised big-button" ng-click="ctrl.props.getStartedClicked()">Get Started</md-button>
+        <md-button class="md-raised big-button" ng-click="ctrl.props.getStartedClicked(); ctrl.$state.go('app.origin')">Get Started</md-button>
+        {{ctrl.props.ui}}
+        <p>{{ctrl.props.airports.selectedOrigin}}</p>
+        <p>{{ctrl.props.airports.selectedDestination}}</p>
+        <p>{{ctrl.props.delays.data}}</p>
+      
+        <div>
+          <div>
+        
+          
+      <!--<md-card flex="60" style="width:500px;">
+        <md-card-title>
+          <md-card-title-text>
+            <span class="md-headline">Card with image</span>
+            <span class="md-subhead">Large</span>
+          </md-card-title-text>
+          <md-card-title-media>
+            <div class="md-media-lg card-media"></div>
+          </md-card-title-media>
+        </md-card-title>
+      <md-card-content>
+         <form ng-submit="$event.preventDefault()">
+      <p>Use <code>md-autocomplete</code> to search for matches from local or remote data sources.</p>
+      <md-autocomplete
+          ng-disabled="ctrl.isDisabled"
+          md-no-cache="ctrl.noCache"
+          md-selected-item="ctrl.selectedItem"
+          md-search-text-change="ctrl.searchTextChange(ctrl.searchText)"
+          md-search-text="ctrl.searchText"
+          md-selected-item-change="ctrl.selectedItemChange(item)"
+          md-items="item in ctrl.querySearch(ctrl.searchText)"
+          md-item-text="item.display"
+          md-min-length="0"
+          placeholder="What is your favorite US state?">
+        <md-item-template>
+          <span md-highlight-text="ctrl.searchText" md-highlight-flags="^i">{{item.display}}</span>
+        </md-item-template>
+        <md-not-found>
+          No states matching "{{ctrl.searchText}}" were found.
+          <a ng-click="ctrl.newState(ctrl.searchText)">Create a new one!</a>
+        </md-not-found>
+      </md-autocomplete>
+      </md-card-content>
+      </md-card>-->
 
+      <!--<md-card flex="80"  layout-align='center center'>
+        
+      <md-card-content>
+
+      </md-card-content>
+      </md-card>-->
+    
     </md-content>
   </div>
 </div>

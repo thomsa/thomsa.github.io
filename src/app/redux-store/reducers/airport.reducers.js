@@ -3,8 +3,8 @@ import {types} from '../actions/airport.actions';
 const defaultState = {
   fetching: false,
   allAirports: [],
-  selectedOrigin: {},
-  selectedDestination: {}
+  selectedOrigin: undefined,
+  selectedDestination: undefined
 };
 
 export default function airport(state = defaultState, action) {
