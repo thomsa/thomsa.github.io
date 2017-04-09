@@ -1,0 +1,4032 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 2325,
+    "CRS_ARR_TIME": 453,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1315,
+    "CRS_ARR_TIME": 1855,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 801,
+    "CRS_ARR_TIME": 1341,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1100,
+    "CRS_ARR_TIME": 1633,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 213.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2257,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 35.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": 53.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": 15.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": 30.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 2325,
+    "CRS_ARR_TIME": 453,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1315,
+    "CRS_ARR_TIME": 1855,
+    "ARR_DELAY": 25.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 801,
+    "CRS_ARR_TIME": 1341,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1100,
+    "CRS_ARR_TIME": 1633,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 213.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 80.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": 48.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 2325,
+    "CRS_ARR_TIME": 453,
+    "ARR_DELAY": -29.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 801,
+    "CRS_ARR_TIME": 1341,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1100,
+    "CRS_ARR_TIME": 1633,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 213.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": 97.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": -26.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": 43.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": 251.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 30.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 27.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": 59.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -36.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 122.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 30,
+    "ARR_DELAY": -28.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 21.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -35.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": -33.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -24.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 804,
+    "CRS_ARR_TIME": 1348,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 43.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 113.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 73.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 27.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": 15.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": -30.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": 26.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": 48.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 50.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1605,
+    "CRS_ARR_TIME": 2145,
+    "ARR_DELAY": 231.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 25.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 48.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": -33.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1001,
+    "CRS_ARR_TIME": 1529,
+    "ARR_DELAY": 32.0,
+    "CRS_ELAPSED_TIME": 208.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1338,
+    "CRS_ARR_TIME": 1910,
+    "ARR_DELAY": 69.0,
+    "CRS_ELAPSED_TIME": 212.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1327,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2106,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 201.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 53,
+    "CRS_ARR_TIME": 610,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 197.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1129,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1204,
+    "CRS_ARR_TIME": 1735,
+    "ARR_DELAY": 88.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1821,
+    "CRS_ARR_TIME": 2346,
+    "ARR_DELAY": 25.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1146,
+    "CRS_ARR_TIME": 1717,
+    "ARR_DELAY": 116.0,
+    "CRS_ELAPSED_TIME": 211.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1740,
+    "CRS_ARR_TIME": 2258,
+    "ARR_DELAY": 140.0,
+    "CRS_ELAPSED_TIME": 198.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1144,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 209.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 28.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 14.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 46.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 16.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 21.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 53.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 40.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -35.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 100.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 87.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 103.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": 50.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 22.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 30,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 47.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 94.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 31.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 49.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": 15.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 75.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 29.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1605,
+    "CRS_ARR_TIME": 2145,
+    "ARR_DELAY": 47.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 14.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 69.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 87.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 44.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 48.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 92.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 116.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 88.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 141.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 80.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 113.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 6.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": 18.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 38.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 69.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 103.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 20.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": 20.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 42.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 30,
+    "ARR_DELAY": 69.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 99.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 27.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 34.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 32.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": 40.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 18.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 98.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1605,
+    "CRS_ARR_TIME": 2145,
+    "ARR_DELAY": -38.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -34.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -26.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -30.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -24.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -37.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 34.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 50.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": 18.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -30.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": 49.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -26.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 16.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 15.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": 23.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -29.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 49.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 62.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 30,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": 112.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1605,
+    "CRS_ARR_TIME": 2145,
+    "ARR_DELAY": 6.0,
+    "CRS_ELAPSED_TIME": 220.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": 20.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": 27.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 11.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": 21.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": 383.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -28.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1736,
+    "CRS_ARR_TIME": 2259,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 203.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 615,
+    "CRS_ARR_TIME": 1141,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 206.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1844,
+    "ARR_DELAY": -29.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1344,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1040,
+    "CRS_ARR_TIME": 1624,
+    "ARR_DELAY": -33.0,
+    "CRS_ELAPSED_TIME": 224.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 20,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1000,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 210.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1352,
+    "CRS_ARR_TIME": 1919,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 800,
+    "CRS_ARR_TIME": 1325,
+    "ARR_DELAY": 199.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1136,
+    "CRS_ARR_TIME": 1710,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1545,
+    "CRS_ARR_TIME": 2110,
+    "ARR_DELAY": 93.0,
+    "CRS_ELAPSED_TIME": 205.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 50,
+    "CRS_ARR_TIME": 609,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 199.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 600,
+    "CRS_ARR_TIME": 1127,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 207.0,
+    "DISTANCE": 1464.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "DFW",
+    "CRS_DEP_TIME": 1156,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 214.0,
+    "DISTANCE": 1464.0
+  }
+]

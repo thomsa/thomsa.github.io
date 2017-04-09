@@ -1,0 +1,42 @@
+[
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "HDN",
+    "CRS_DEP_TIME": 1257,
+    "CRS_ARR_TIME": 1620,
+    "ARR_DELAY": 70.0,
+    "CRS_ELAPSED_TIME": 143.0,
+    "DISTANCE": 838.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "HDN",
+    "CRS_DEP_TIME": 1257,
+    "CRS_ARR_TIME": 1620,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 143.0,
+    "DISTANCE": 838.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "HDN",
+    "CRS_DEP_TIME": 1257,
+    "CRS_ARR_TIME": 1620,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 143.0,
+    "DISTANCE": 838.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "HDN",
+    "CRS_DEP_TIME": 1257,
+    "CRS_ARR_TIME": 1620,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 143.0,
+    "DISTANCE": 838.0
+  }
+]

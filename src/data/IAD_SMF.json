@@ -1,0 +1,32 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "IAD",
+    "DEST": "SMF",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 2144,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 349.0,
+    "DISTANCE": 2358.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "IAD",
+    "DEST": "SMF",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 2144,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 349.0,
+    "DISTANCE": 2358.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "IAD",
+    "DEST": "SMF",
+    "CRS_DEP_TIME": 1855,
+    "CRS_ARR_TIME": 2144,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 349.0,
+    "DISTANCE": 2358.0
+  }
+]

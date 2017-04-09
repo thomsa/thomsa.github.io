@@ -1,0 +1,122 @@
+[
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2206,
+    "ARR_DELAY": -30.0,
+    "CRS_ELAPSED_TIME": 311.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2206,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 311.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2206,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 311.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "KOA",
+    "DEST": "SAN",
+    "CRS_DEP_TIME": 1455,
+    "CRS_ARR_TIME": 2210,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 315.0,
+    "DISTANCE": 2556.0
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "ONT",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1859,
+    "CRS_ARR_TIME": 1934,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 35.0,
+    "DISTANCE": 65.0
+  }
+]

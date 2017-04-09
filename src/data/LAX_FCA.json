@@ -1,0 +1,12 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "FCA",
+    "CRS_DEP_TIME": 645,
+    "CRS_ARR_TIME": 1046,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 181.0,
+    "DISTANCE": 1014.0
+  }
+]

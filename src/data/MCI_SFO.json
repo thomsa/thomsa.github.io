@@ -1,0 +1,342 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2117,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 252.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 555,
+    "CRS_ARR_TIME": 812,
+    "ARR_DELAY": 6.0,
+    "CRS_ELAPSED_TIME": 257.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2117,
+    "ARR_DELAY": 78.0,
+    "CRS_ELAPSED_TIME": 252.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 555,
+    "CRS_ARR_TIME": 812,
+    "ARR_DELAY": 343.0,
+    "CRS_ELAPSED_TIME": 257.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2117,
+    "ARR_DELAY": 196.0,
+    "CRS_ELAPSED_TIME": 252.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 555,
+    "CRS_ARR_TIME": 812,
+    "ARR_DELAY": 67.0,
+    "CRS_ELAPSED_TIME": 257.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 108.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 30.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 161.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 104.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 185.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -47.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -29.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -50.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 122.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 58.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 56.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": 14.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -28.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -41.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -42.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -24.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "MCI",
+    "DEST": "SFO",
+    "CRS_DEP_TIME": 1905,
+    "CRS_ARR_TIME": 2116,
+    "ARR_DELAY": -32.0,
+    "CRS_ELAPSED_TIME": 251.0,
+    "DISTANCE": 1499.0
+  }
+]

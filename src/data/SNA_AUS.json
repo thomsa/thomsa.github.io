@@ -1,0 +1,142 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 805,
+    "CRS_ARR_TIME": 1255,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 170.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1250,
+    "CRS_ARR_TIME": 1730,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 735,
+    "CRS_ARR_TIME": 1215,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 735,
+    "CRS_ARR_TIME": 1215,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1050,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1505,
+    "CRS_ARR_TIME": 1945,
+    "ARR_DELAY": 17.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1145,
+    "CRS_ARR_TIME": 1625,
+    "ARR_DELAY": 26.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "SNA",
+    "DEST": "AUS",
+    "CRS_DEP_TIME": 1050,
+    "CRS_ARR_TIME": 1530,
+    "ARR_DELAY": 15.0,
+    "CRS_ELAPSED_TIME": 160.0,
+    "DISTANCE": 1209.0
+  }
+]

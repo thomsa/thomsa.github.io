@@ -1,0 +1,1342 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": 16.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": 38.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": 35.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": 53.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-04T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": 43.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": -17.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1730,
+    "CRS_ARR_TIME": 1740,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 70.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2004,
+    "ARR_DELAY": 6.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2101,
+    "CRS_ARR_TIME": 2114,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-08T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1511,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 74.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1754,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-10T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 10.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-11T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": 64.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1600,
+    "CRS_ARR_TIME": 1607,
+    "ARR_DELAY": 25.0,
+    "CRS_ELAPSED_TIME": 67.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -19.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -7.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -20.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 2.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1754,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -16.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-17T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 7.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 6.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-18T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": 0.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 8.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 19.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 24.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 20.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1600,
+    "CRS_ARR_TIME": 1607,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 67.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 31.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 14.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1857,
+    "CRS_ARR_TIME": 1905,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 5.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 80.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1754,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": 3.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-24T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -15.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-25T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -3.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": 19.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": 12.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -18.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -22.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1600,
+    "CRS_ARR_TIME": 1607,
+    "ARR_DELAY": -14.0,
+    "CRS_ELAPSED_TIME": 67.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -11.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 1.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1753,
+    "ARR_DELAY": -5.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 2120,
+    "CRS_ARR_TIME": 2129,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": -8.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1300,
+    "CRS_ARR_TIME": 1308,
+    "ARR_DELAY": 26.0,
+    "CRS_ELAPSED_TIME": 68.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1745,
+    "CRS_ARR_TIME": 1754,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 69.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1950,
+    "CRS_ARR_TIME": 2003,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 73.0,
+    "DISTANCE": 261.0
+  },
+  {
+    "FL_DATE": "2017-01-31T00:00:00",
+    "ORIGIN": "PHX",
+    "DEST": "PSP",
+    "CRS_DEP_TIME": 1457,
+    "CRS_ARR_TIME": 1508,
+    "ARR_DELAY": 9.0,
+    "CRS_ELAPSED_TIME": 71.0,
+    "DISTANCE": 261.0
+  }
+]

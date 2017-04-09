@@ -1,0 +1,32 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "BWI",
+    "CRS_DEP_TIME": 2133,
+    "CRS_ARR_TIME": 540,
+    "ARR_DELAY": -10.0,
+    "CRS_ELAPSED_TIME": 307.0,
+    "DISTANCE": 2457.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "BWI",
+    "CRS_DEP_TIME": 2133,
+    "CRS_ARR_TIME": 540,
+    "ARR_DELAY": 53.0,
+    "CRS_ELAPSED_TIME": 307.0,
+    "DISTANCE": 2457.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "SFO",
+    "DEST": "BWI",
+    "CRS_DEP_TIME": 2133,
+    "CRS_ARR_TIME": 540,
+    "ARR_DELAY": 29.0,
+    "CRS_ELAPSED_TIME": 307.0,
+    "DISTANCE": 2457.0
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 1231,
+    "CRS_ARR_TIME": 1618,
+    "ARR_DELAY": -4.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 930,
+    "CRS_ARR_TIME": 1317,
+    "ARR_DELAY": -23.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 930,
+    "CRS_ARR_TIME": 1317,
+    "ARR_DELAY": 16.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 835,
+    "CRS_ARR_TIME": 1225,
+    "ARR_DELAY": -6.0,
+    "CRS_ELAPSED_TIME": 170.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-07T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 845,
+    "CRS_ARR_TIME": 1232,
+    "ARR_DELAY": -21.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 825,
+    "CRS_ARR_TIME": 1212,
+    "ARR_DELAY": 13.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-14T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 845,
+    "CRS_ARR_TIME": 1232,
+    "ARR_DELAY": -2.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 835,
+    "CRS_ARR_TIME": 1225,
+    "ARR_DELAY": -1.0,
+    "CRS_ELAPSED_TIME": 170.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-21T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 845,
+    "CRS_ARR_TIME": 1232,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 835,
+    "CRS_ARR_TIME": 1225,
+    "ARR_DELAY": 16.0,
+    "CRS_ELAPSED_TIME": 170.0,
+    "DISTANCE": 902.0
+  },
+  {
+    "FL_DATE": "2017-01-28T00:00:00",
+    "ORIGIN": "LAX",
+    "DEST": "BZN",
+    "CRS_DEP_TIME": 845,
+    "CRS_ARR_TIME": 1232,
+    "ARR_DELAY": 4.0,
+    "CRS_ELAPSED_TIME": 167.0,
+    "DISTANCE": 902.0
+  }
+]

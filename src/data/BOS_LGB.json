@@ -1,0 +1,182 @@
+[
+  {
+    "FL_DATE": "2017-01-01T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1705,
+    "CRS_ARR_TIME": 2036,
+    "ARR_DELAY": -12.0,
+    "CRS_ELAPSED_TIME": 391.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-02T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1705,
+    "CRS_ARR_TIME": 2036,
+    "ARR_DELAY": 40.0,
+    "CRS_ELAPSED_TIME": 391.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-03T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1705,
+    "CRS_ARR_TIME": 2036,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 391.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-05T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-06T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": 28.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-09T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": 52.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-12T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": null,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-13T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": 14.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-15T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -27.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-16T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -42.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-19T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -44.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-20T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -28.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-22T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -9.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-23T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -13.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-26T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -49.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-27T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -28.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-29T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -51.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  },
+  {
+    "FL_DATE": "2017-01-30T00:00:00",
+    "ORIGIN": "BOS",
+    "DEST": "LGB",
+    "CRS_DEP_TIME": 1710,
+    "CRS_ARR_TIME": 2044,
+    "ARR_DELAY": -38.0,
+    "CRS_ELAPSED_TIME": 394.0,
+    "DISTANCE": 2602.0
+  }
+]
