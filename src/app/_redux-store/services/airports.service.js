@@ -1,4 +1,4 @@
-import * as airportActions from '../redux-store/actions/airport.actions';
+import * as airportActions from '../../_redux-store/actions/airport.actions';
 const basePath = '/data/';
 
  /** @ngInject */
@@ -22,9 +22,7 @@ export function AirportService($http, $q, $log) {
   };
 }
 
-const name = 'ria-airport-service-module';
-angular
-    .module(name, [])
-    .factory('riaAirportService', AirportService);
+export default angular
+    .module('ria-airport-service-module', [])
+    .factory('riaAirportService', AirportService).name;
 
-export default name;

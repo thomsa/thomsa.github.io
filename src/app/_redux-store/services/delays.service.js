@@ -1,4 +1,4 @@
-import * as delayActions from '../redux-store/actions/delay.actions';
+import * as delayActions from '../../_redux-store/actions/delay.actions';
 const basePath = '/data/';
 
 /** @ngInject */
@@ -22,9 +22,6 @@ export function DelaysService($http, $q, $log) {
   };
 }
 
-const name = 'ria-delays-service-module';
-angular
+export default angular
     .module(name, [])
-    .factory('riaDelaysService', DelaysService);
-
-export default name;
+    .factory('riaDelaysService', DelaysService).name;

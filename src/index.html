@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="app">
+<html>
 
 <head>
   <base href="/">
@@ -15,6 +15,9 @@
 
 <body style="height:100vh;" layout="column">
   <ui-view flex layout="column"></ui-view>
+  <ria-evaluate-container> </ria-evaluate-container>
+  <ria-calendar day="15"></ria-calendar>
+  <flip-clock hour="15" minute="23"></flip-clock>
 </body>
 
 </html>

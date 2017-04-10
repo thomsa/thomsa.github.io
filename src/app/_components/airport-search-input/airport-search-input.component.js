@@ -1,8 +1,8 @@
-import * as uiActions from '../../redux-store/actions/ui.actions';
-import * as airportActions from '../../redux-store/actions/airport.actions';
+import * as uiActions from '../../_redux-store/actions/ui.actions';
+import * as airportActions from '../../_redux-store/actions/airport.actions';
 
 class AirportSearchController {
-    /** @ngInject */
+  /** @ngInject */
   constructor($ngRedux, $scope, riaAirportService, riaDelaysService) {
     this.props = {};
     const unsubscribe = $ngRedux.connect(this.mapStateToThis,
@@ -40,11 +40,11 @@ class AirportSearchController {
   }
 }
 
-export default {
-  controller: AirportSearchController,
-  controllerAs: 'ctrl',
-  template: require('./airport-search-input.template.html'),
-  bindings: {
-    type: '@'
-  }
-};
+export default angular.module('ria.components.airport-search-input', [])
+  .component('riaAirportSearchInput', {
+    template: require('./airport-search-input.template.html'),
+    controller: AirportSearchController,
+    bindings: {
+      type: '@'
+    }
+  }).name;

@@ -11,15 +11,17 @@ module.exports = {
       {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: 'eslint-loader',
-        enforce: 'pre'
-      },
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
         loaders: [
           'ng-annotate-loader',
           'babel-loader'
+        ]
+      },
+      {
+        test: /\.(css|scss)$/,
+        loaders: [
+          'style-loader',
+          'css-loader',
+          'sass-loader'
         ]
       },
       {

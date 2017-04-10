@@ -8,8 +8,10 @@ $blue: #328CC1;
 $light-gray : rgb(240, 240, 240);
 
 /* component imports */
-@import "./app/containers/home/home.style";
-@import "./app/containers/evaluate/evaluate.style";
+@import "./containers/home/home.style";
+@import "./containers/evaluate/evaluate.style";
 /* @import "./app/containers/destination-select/destination-select.style";*/
-@import "./app/components/plane/plane.style";
+@import "./_components/plane/plane.style";
 /*@import "./app/components/airport-search-input/airport-search-input.style"; */
+@import "./_components/calendar/calendar.style";
+@import "./_components/flip-clock/flip-clock.style";

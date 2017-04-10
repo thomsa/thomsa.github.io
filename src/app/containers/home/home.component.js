@@ -1,5 +1,5 @@
-import * as uiActions from '../../redux-store/actions/ui.actions';
-import * as airportActions from '../../redux-store/actions/airport.actions';
+import * as uiActions from '../../_redux-store/actions/ui.actions';
+import * as airportActions from '../../_redux-store/actions/airport.actions';
 
 class HomeController {
   /** @ngInject */
