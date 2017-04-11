@@ -1,15 +1,17 @@
-// import './app.scss';
-
+import './app.scss';
 // DI
 import angular from 'angular';
 
 // CORE
-import core from './_core/core.module';
-import components from './_components/components.module';
-import reduxStoreModule from './_redux-store/redux-store.module';
+import core from './_core';
+import components from './_components';
+import reduxStoreModule from './_redux-store';
 
 // FEATURES
-import containers from './containers/';
+import layouts from './layouts';
+import start from './start';
+import airportSelect from './airport-select';
+import results from './results';
 
 angular
   .module('riaApp', [
@@ -22,7 +24,10 @@ angular
     /**
      * FEATURE MODULES
      */
-    containers
+    layouts,
+    start,
+    airportSelect,
+    results
   ]);
 
 angular.element(document)

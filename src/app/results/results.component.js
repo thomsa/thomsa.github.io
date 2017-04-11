@@ -1,14 +1,15 @@
-import * as uiActions from '../../_redux-store/actions/ui.actions';
-import * as airportActions from '../../_redux-store/actions/airport.actions';
+import * as uiActions from '../_redux-store/actions/ui.actions';
+import * as stateActions from 'redux-ui-router';
 
-class EvaluateController {
+class ResultsController {
   /** @ngInject */
   constructor($ngRedux, $scope, $state, $stateParams, riaDelaysService) {
     this.props = {};
     const unsubscribe = $ngRedux.connect(this.mapStateToThis,
       Object.assign({},
         uiActions,
-        riaDelaysService))(this.props);
+        riaDelaysService,
+        stateActions))(this.props);
     $scope.$on('$destroy', unsubscribe);
 
     console.log(this);
@@ -111,8 +112,8 @@ class EvaluateController {
 }
 
 export default {
-  template: require('./evaluate.template.html'),
-  controller: EvaluateController,
+  template: require('./results.template.html'),
+  controller: ResultsController,
   controllerAs: 'ctrl',
   bindings: {
     layout: '@',

@@ -1,26 +1,28 @@
 import {types} from '../actions/airport.actions';
 
 const defaultState = {
-  fetching: false,
+  fetchingAirports: false,
   allAirports: [],
   selectedOrigin: undefined,
-  selectedDestination: undefined
+  selectedDestination: undefined,
+  fetchingConnectedAirports: false,
+  connectedAirports: []
 };
 
 export default function airport(state = defaultState, action) {
   switch (action.type) {
     case types.AIRPORTS_FETCH:
       return Object.assign({}, state, {
-        fetching: true
+        fetchingAirports: true
       });
     case types.AIRPORTS_FETCH_ERROR:
       return Object.assign({}, state, {
-        fetching: false,
+        fetchingAirports: false,
         error: action.error
       });
     case types.AIRPORTS_FETCH_SUCCESS:
       return Object.assign({}, state, {
-        fetching: false,
+        fetchingAirports: false,
         allAirports: action.data
       });
     case types.SET_DESTINATION_AIRPORT:
@@ -30,6 +32,20 @@ export default function airport(state = defaultState, action) {
     case types.SET_ORIGIN_AIRPORT:
       return Object.assign({}, state, {
         selectedOrigin: action.airport
+      });
+    case types.CONNECTED_AIRPORTS_FETCH:
+      return Object.assign({}, state, {
+        fetchingConnectedAirports: true
+      });
+    case types.CONNECTED_AIRPORTS_FETCH_ERROR:
+      return Object.assign({}, state, {
+        fetchingConnectedAirports: false,
+        error: action.error
+      });
+    case types.CONNECTED_AIRPORTS_FETCH_SUCCESS:
+      return Object.assign({}, state, {
+        fetchingConnectedAirports: false,
+        connectedAirports: action.data
       });
     default:
       return state;

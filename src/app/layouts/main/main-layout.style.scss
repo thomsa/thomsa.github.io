@@ -11,7 +11,7 @@
 
 .title-page {
     font-family: 'Raleway', sans-serif;
-    text-shadow: 0 0 9px black; 
+    text-shadow: 1px -5px 8px rgb(0, 0, 0); 
     color: white;
     h1 {
         font-size: 5em;
@@ -34,26 +34,6 @@
     100% {
     transform: rotate(-100vh);
     }
-}
-
-.autocomplete-custom-template li {
-  border-bottom: 1px solid #ccc;
-  height: auto;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  white-space: normal;
-}
-.autocomplete-custom-template li:last-child {
-  border-bottom-width: 0;
-}
-.autocomplete-custom-template .item-title,
-.autocomplete-custom-template .item-metadata {
-  display: block;
-  line-height: 2;
-}
-.autocomplete-custom-template .item-title md-icon {
-  height: 18px;
-  width: 18px;
 }
 
 .origin-search{
@@ -84,31 +64,24 @@
     }
 }
 
-[ui-view].ng-enter, [ui-view].ng-leave {
+[ui-view].main.ng-enter, [ui-view].ng-leave {
   position: absolute;
   left: 0;
   right: 0;
-    transition:all 0.75s ease-in-out;
+  transition:all 0.5s linear;
 }
 
-[ui-view].ng-enter {
-  transform: translate(100%, 0);
+
+[ui-view].main.ng-leave {
+  transform: translateY(0);
 }
 
-[ui-view].ng-enter-active {
-  transform: translate(0, 0);
-}
-
-[ui-view].ng-leave {
-  transform: translate(0, 0);
-}
-
-[ui-view].ng-leave-active {
-  transform: translate(-100%, 0);
+[ui-view].main.ng-leave-active {
+  transform: translateY(-100%);
 }
 
 .content-wrapper {
-    background-image:    url('/assets/images/city.svg');
+    background-image:    url('/assets/images/bg.svg');
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: center center;  

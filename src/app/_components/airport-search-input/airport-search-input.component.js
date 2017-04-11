@@ -1,7 +1,7 @@
 import * as uiActions from '../../_redux-store/actions/ui.actions';
 import * as airportActions from '../../_redux-store/actions/airport.actions';
 
-class AirportSearchController {
+class AirportSearchInputController {
   /** @ngInject */
   constructor($ngRedux, $scope, riaAirportService, riaDelaysService) {
     this.props = {};
@@ -20,10 +20,9 @@ class AirportSearchController {
 
   setSelectedAirport(item) {
     if (this.type === 'origin') {
-      console.log('setting origin');
       this.props.setOriginAirport(item);
+      this.props.getConnectedAirports(item);
     } else if (this.type === 'destination') {
-      console.log('setting dest');
       this.props.setDestinationAirport(item);
     }
     console.log(this);
@@ -43,8 +42,11 @@ class AirportSearchController {
 export default angular.module('ria.components.airport-search-input', [])
   .component('riaAirportSearchInput', {
     template: require('./airport-search-input.template.html'),
-    controller: AirportSearchController,
+    controller: AirportSearchInputController,
+    controllerAs: 'ctrl',
     bindings: {
-      type: '@'
+      type: '@',
+      placeHolder: '@',
+      ngDisabled: '='
     }
   }).name;

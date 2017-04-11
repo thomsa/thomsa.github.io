@@ -6,13 +6,14 @@ import ngMaterial from 'angular-material';
 import ngAnimate from 'angular-animate';
 import ngAria from 'angular-aria';
 import uiRouter from 'angular-ui-router';
-
+import 'angular-ui-router/release/stateEvents';
 /**
  * 3rd PARTY IMPORTS
  */
 import highChartsng from 'highcharts-ng';
 
 // reusable custom modules
+import config from './core.config';
 import constants from './core.constants';
 
 export default angular
@@ -24,6 +25,7 @@ export default angular
       ngAnimate,
       ngAria,
       uiRouter,
+      'ui.router.state.events',
         /*
          * Reusable cross app modules
          */
@@ -32,4 +34,5 @@ export default angular
          * 3RD PARTY MODULES
          */
       highChartsng
-    ]).name;
+    ]).config(config)
+    .name;

@@ -1,26 +1,24 @@
-import * as uiActions from '../../_redux-store/actions/ui.actions';
-import * as airportActions from '../../_redux-store/actions/airport.actions';
-
-class HomeController {
+import * as uiActions from '../_redux-store/actions/ui.actions';
+import * as stateActions from 'redux-ui-router';
+class AirportSelectController {
   /** @ngInject */
-  constructor($ngRedux, $scope, $state, riaAirportService) {
+  constructor($ngRedux, $scope) {
     this.props = {};
     const unsubscribe = $ngRedux.connect(this.mapStateToThis,
       Object.assign({},
-        airportActions,
         uiActions,
-        riaAirportService))(this.props);
+        stateActions))(this.props);
     $scope.$on('$destroy', unsubscribe);
-
-    this.props.getAllAirports();
     console.log(this);
-
-    this.$state = $state;
   }
-
+  getStarteClick() {
+    this.props.getStartedClicked();
+    this.props.stateGo('main.test');
+  }
   mapStateToThis(state) {
     return {
       airports: state.airport,
+      router: state.router,
       ui: state.ui,
       delays: state.delay
     };
@@ -28,8 +26,8 @@ class HomeController {
 }
 
 export default {
-  template: require('./home.template.html'),
-  controller: HomeController,
+  template: require('./airport-select.template.html'),
+  controller: AirportSelectController,
   controllerAs: 'ctrl',
   bindings: {
     layout: '@',

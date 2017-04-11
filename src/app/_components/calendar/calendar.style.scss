@@ -9,7 +9,7 @@
         font-family: Verdana, sans-serif;
     }
     .month {
-        padding: 70px 25px;
+        padding: 25px 25px;
         width: 100%;
         background: #1abc9c;
     }
@@ -22,14 +22,6 @@
         font-size: 20px;
         text-transform: uppercase;
         letter-spacing: 3px;
-    }
-    .month .prev {
-        float: left;
-        padding-top: 10px;
-    }
-    .month .next {
-        float: right;
-        padding-top: 10px;
     }
     .weekdays {
         margin: 0;
@@ -50,7 +42,7 @@
     .days li {
         list-style-type: none;
         display: inline-block;
-        width: 13.6%;
+        width: 14.1%;
         text-align: center;
         margin-bottom: 5px;
         font-size: 12px;
@@ -62,13 +54,13 @@
         color: white !important
     }
     /* Add media queries for smaller screens */
-    @media screen and (max-width:720px) {
+    @media screen and (max-width:1207px) {
         .weekdays li,
         .days li {
             width: 13.1%;
         }
     }
-    @media screen and (max-width: 420px) {
+    @media screen and (max-width: 940px) {
         .weekdays li,
         .days li {
             width: 12.5%;

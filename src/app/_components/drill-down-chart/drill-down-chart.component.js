@@ -14,7 +14,7 @@ class ChartController {
 }
 
 export default angular.module('ria.components.drill-down-chart', [])
-  .component('riaAirportSearchInput', {
+  .component('riaDrillDownChart', {
     controller: ChartController,
     controllerAs: 'ctrl',
     template: require('./drill-down-chart.template.html'),
